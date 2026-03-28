@@ -99,9 +99,8 @@ This \(a\) is for **950nm wavelength**.
 
 
 ### Bending Loss
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|----------------------|-----------------------|
-|                  |                      |                       |
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5a0d2aaf-ee70-44aa-a45c-9a362aa10058" />
+
 
 ---
 
